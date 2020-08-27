@@ -1,4 +1,4 @@
-# R-programming
+# R-programming(page no 7)
 #2.1  Suppose you keep track of your mileage each time you fill up. At your last 6 fill-ups the mileage was
 65311 65624 65908 66219 66499 66821 67145 67447
 Enter these numbers into R. Use the function diff on the data. What does it give?
